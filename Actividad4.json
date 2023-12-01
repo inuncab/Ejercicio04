@@ -1,0 +1,44 @@
+{
+    "empleados": [
+      {
+        "nombre": "Juan Perez",
+        "edad": 30,
+        "cargo": "Desarrollador",
+        "salario": 50000,
+        "proyectos": [
+          {
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "01/01/23",
+            "tareas": ["Desarrollo de la interfaz de usuario", "Implementación de la base de datos"]
+          }
+       
+        ]
+      },
+      {
+        "nombre": "María López",
+        "edad": 28,
+        "cargo": "Analista de Datos",
+        "salario": 55000,
+        "proyectos": [
+          {
+            "nombre": "Análisis de Mercado",
+            "fecha_inicio": "15/12/202",
+            "tareas": ["Recopilación de datos", "Generación de informes"]
+          }
+        ]
+      },
+      {
+        "nombre": "Ignacio Núñez",
+        "edad": 30,
+        "cargo":"Director ejecutivo",
+        "salario": 199000,
+        "proyectos": [
+        {
+            "nombre": ["Implementacion base de datos", "Recopilacion de datos"]
+        }
+        ]
+
+      }
+    ]
+}
+  

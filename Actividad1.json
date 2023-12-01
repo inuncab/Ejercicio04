@@ -1,0 +1,54 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Juan Perez",
+      "edad": 17,
+      "asignaturas": [
+        {
+          "nombre": "Matemáticas",
+          "calificacion": 9
+        },
+        {
+          "nombre": "Ciencias",
+          "calificacion": 5
+        }
+      ]
+    },
+    {
+      "nombre": "María Garcia",
+      "edad": 16,
+      "asignaturas": [
+        {
+          "nombre": "Historia",
+          "calificacion": 90
+        },
+        {
+          "nombre": "Arte",
+          "calificacion": 5
+        }
+      ]
+    }
+  ],
+  "profesores": [
+    {
+      "nombre": "Ana",
+      "asignaturas": [
+        {
+          "nombre": "Inglés"
+          
+        }
+      ]
+    },
+    {
+      "nombre": "Profesora Lopez",
+      "asignaturas": [
+        {
+          "nombre": "Historia"
+        },
+        {
+          "nombre": "Arte"
+        }
+      ]
+    }
+  ]
+}
